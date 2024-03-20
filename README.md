@@ -1,8 +1,19 @@
-# React + Vite
+# Byteblaze
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live site:
 
-Currently, two official plugins are available:
+- [ByteBlaze](https://byte-blaze.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Resources:
+
+- [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
+- [Mamba UI - Components](https://mambaui.com/components)
+- [Dev.to API Docs](https://developers.forem.com/api/v1#tag/articles/operation/getArticles)
+- [React-Hot-Toast](https://react-hot-toast.com/)
+- [React-Spinner](https://www.npmjs.com/package/react-spinners)
+- [React-Icons](https://react-icons.github.io/react-icons/)
+- [React-Markdown](https://www.npmjs.com/package/react-markdown)
+- [ReHype-Raw](https://www.npmjs.com/package/rehype-raw)
+- [Prop-Types](https://www.npmjs.com/package/prop-types)
+- [Daisy UI](https://daisyui.com/)
+- [TailwindCSS](https://tailwindcss.com/)
